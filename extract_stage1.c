@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-const int STAGE1_SIZE = 0xF678;
+const int STAGE1_SIZE = 0xf678;
 const int STAGE1_OFFSET = 0x2e170;
 const int STAGE1_SLICE = 0x3d42;
 
