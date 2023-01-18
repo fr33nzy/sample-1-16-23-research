@@ -18,7 +18,7 @@ Debug/*
 *.sln
 *.vcxproj
 *.vcxproj.filters
-*.vcxproj.users
+*.vcxproj.user
 
 stage1.bin
 stage2.bin
